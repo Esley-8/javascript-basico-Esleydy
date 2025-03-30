@@ -1,6 +1,5 @@
-
 console.log("ingrese el numero inicial del rango : 10")
-const numeros = parseInt ("rango")
+const numero = parseInt ("rango")
 if (numero>50){
     console.log("cantidad de numeros pares :21")
     console.log("cantidad de numeros impares :20")
